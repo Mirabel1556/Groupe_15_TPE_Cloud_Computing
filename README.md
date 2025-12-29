@@ -44,7 +44,7 @@
 </p>
 - nb_jours=int(input("veuillez entrer le nombre de jours du mois :")) demande à l'utilisateur d'entrer le nombre de jours du mois  <br>
 - while nb_jours < 1 or nb_jours > 31:   <br>
-  - nb_jours=int(input("Veuillez entre un nombre entre 1 et 31:")) tantque l'utilisateur n'entre pas un nombre entre 1 et 31, la fonction lui demande d'entrer le nombre de jours  <br>
+  - nb_jours=int(input("Veuillez entre un nombre entre 1 et 31:")) tantque l'utilisateur n'entre pas un nombre entre 1 et 31, la fonction lui - - demande d'entrer le nombre de jours  <br>
 - premier_jour=int(input("veuillez entrer le premier jour du mois (1=Lundi, 7=Dimache) :")) demande a l'utilisateur d'entrer le premier jour du mois  <br>
 - jours_semaine= ["Lun", "Mar", "Mer", "Jeu", "Ven", "Sam", "Dim"] affiche les jours de la semaine  <br>
 - print(" ".join(jours_semaine))  <br>

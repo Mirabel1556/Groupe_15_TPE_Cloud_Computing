@@ -1,4 +1,4 @@
-Membres du Groupe
+<b>Membres du Groupe </b> <br>
 ABI MIRABEL TEMBELE(23B506FS) Participation(exo4, exo8, ex022)  <br>
 TEMWA HABMO MAXIME(22A578FS)  Participation(exo4, exo8, ex022)   <br>
 MOHAMADOU AWALOU(21A286FS)    Participation(exo4, exo8)   <br>
@@ -6,8 +6,8 @@ PADEMONA STEPHANE(21A282FS)   Participation(exo4, exo8) <br>
 
 
            exercice 4: Reversibilité de nombres  
-Problème: une fonction qui prend une liste et retourne ceux qui sont les memes quand on les lit droite à gauche <br>
-           Explication de la solution: <br>
+<b>Problème: une fonction qui prend une liste et retourne ceux qui sont les memes quand on les lit droite à gauche</b> <br>
+           <b>Explication de la solution:</b> <br>
 la fonction prend en entrée un nombre (n)  <br>
  n_str=str(n) convertir les nombres en chaine  <br>
 return n_str == n_str[:: -1] compare la chaine à son inverse  <br>
@@ -18,8 +18,8 @@ N=[int(x) for x in s.split()] converti les nombres en entiers et les stocke dans
 print("les nombres palindromes sont:", palindrome) affiche la liste de tout les palindrome trouvés  <br>
 
             exercice 8: Générateur de nombres premiers jusqu'à n
-Problème: créez une fonction qui génère tous les nombres premiers inférieurs ou égaux un nombre donné sans utiliser la ,éthode du crible   d'Eratosthène  <br>
-            Explication de la solution:  <br>
+<b>Problème: créez une fonction qui génère tous les nombres premiers inférieurs ou égaux un nombre donné sans utiliser la ,éthode du crible   d'Eratosthène</b>  <br>
+           <b> Explication de la solution:</b>  <br>
 la fonction prend en entrée un nombre (n)  <br>
 if n < 2 vérifie si le nombre est inférieur à 2  <br>
 for i in range(2, int(n**0.5)+1): teste les diviseur jusqu'à la racine carré de n  <br>
@@ -28,12 +28,12 @@ N=[i for i in range(2, n+1) if est_premiers(i)] permet de créer une liste N qui
 print(f"nombres premiers <={n} : {N}") affiche tout les nombres premiers entre 2 et n  <br>
 
             exercice 22: Afficher le calendrier du mois
-Problème: Ecrire un programme qui genère un calendrier respectant la syntaxe suivante  <br>
+<b>Problème: Ecrire un programme qui genère un calendrier respectant la syntaxe suivante</b>  <br>
 >>>Entrez le nombres de jours dans le mois  <br>
 >>>30  <br>
 >>>entrez le premier jour du mois : 1 pour lundi, 7 pour dimanche  <br>
->>>3
-            Explication de la solution:  <br>
+>>>3 <br>
+            <b>Explication de la solution: </b> <br>
 nb_jours=int(input("veuillez entrer le nombre de jours du mois :")) demande à l'utilisateur d'entrer le nombre de jours du mois  <br>
 while nb_jours < 1 or nb_jours > 31:   <br>
     nb_jours=int(input("Veuillez entre un nombre entre 1 et 31:")) tantque l'utilisateur n'entre pas un nombre entre 1 et 31, la fonction lui demande d'entrer le nombre de jours  <br>
@@ -42,7 +42,7 @@ jours_semaine= ["Lun", "Mar", "Mer", "Jeu", "Ven", "Sam", "Dim"] affiche les jou
 print(" ".join(jours_semaine))  <br>
 print("  " * (premier_jour -1), end="")   affiche des espaces entre les jours de la semaine  <br>
 for jour in range(1, nb_jours + 1):  <br>
-    print(f"{jour:4}", end=" ") affiche le calandrier  
- if(jour + premier_jour -1) %7== 0:
+    print(f"{jour:4}", end=" ") affiche le calandrier   <br>
+ if(jour + premier_jour -1) %7== 0: <br>
        print()      permet d'aller à la ligne à chaque fin de semaine          
               

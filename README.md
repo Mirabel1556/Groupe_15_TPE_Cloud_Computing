@@ -38,7 +38,7 @@
 <li>print(f"nombres premiers <={n} : {N}") affiche tout les nombres premiers entre 2 et n  <br>
 </u>
             
-           <b> exercice 22: Afficher le calendrier du mois</b>
+            exercice 22: Afficher le calendrier du mois
 <b><u>Problème:</u> Ecrire un programme qui genère un calendrier respectant la syntaxe suivante</b>  <br>
 >>>Entrez le nombres de jours dans le mois  <br>
 >>>30  <br>

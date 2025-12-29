@@ -4,8 +4,8 @@
 <ul>
 <li>ABI MIRABEL TEMBELE(23B506FS)   Participation(exo4, exo8, ex022)</li>  <br>
 <li>TEMWA HABMO MAXIME(22A578FS)    Participation(exo4, exo8, ex022)</li>   <br>
-<li>MOHAMADOU AWALOU(21A286FS)      Participation(exo4, exo8)   <br></li>
-<li>PADEMONA STEPHANE(21A282FS)     Participation(exo4, exo8) <br></li>
+<li>MOHAMADOU AWALOU(21A286FS)      Participation(exo4, exo8)</li>   <br>
+<li>PADEMONA STEPHANE(21A282FS)     Participation(exo4, exo8)</li> <br>
 </ul>
             exercice 4: Reversibilité de nombres
 <b>Problème: une fonction qui prend une liste et retourne ceux qui sont les memes quand on les lit droite à gauche</b> <br>

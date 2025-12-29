@@ -1,4 +1,6 @@
+<p align="center">
 <u><b>Membres du Groupe</b></u> <br>
+</p>
 - ABI MIRABEL TEMBELE(23B506FS) Participation(exo4, exo8, ex022)  <br>
 - TEMWA HABMO MAXIME(22A578FS)  Participation(exo4, exo8, ex022)   <br>
 - MOHAMADOU AWALOU(21A286FS)    Participation(exo4, exo8)   <br>
@@ -7,7 +9,9 @@
 
             exercice 4: Reversibilité de nombres
 <b>Problème: une fonction qui prend une liste et retourne ceux qui sont les memes quand on les lit droite à gauche</b> <br>
-           <b><center>Explication de la solution:</center></b> <br>
+<p align="center">
+           <b>Explication de la solution:</b> <br>
+</p>
 - la fonction prend en entrée un nombre (n)  <br>
 - n_str=str(n) convertir les nombres en chaine  <br>
 - return n_str == n_str[:: -1] compare la chaine à son inverse  <br>
@@ -19,7 +23,9 @@
 
             exercice 8: Générateur de nombres premiers jusqu'à
 <b><u>Problème:</u> créez une fonction qui génère tous les nombres premiers inférieurs ou égaux un nombre donné sans utiliser la ,éthode du crible   d'Eratosthène</b>  <br>
-           <b><center> Explication de la solution:</center></b>  <br>
+<p align="center">
+           <b>Explication de la solution:</b>  <br>
+</p>
 - la fonction prend en entrée un nombre (n)  <br>
 - if n < 2 vérifie si le nombre est inférieur à 2  <br>
 - for i in range(2, int(n**0.5)+1): teste les diviseur jusqu'à la racine carré de n  <br>
@@ -33,7 +39,9 @@
 >>>30  <br>
 >>>entrez le premier jour du mois : 1 pour lundi, 7 pour dimanche  <br>
 >>>3 <br>
-            <b><center>Explication de la solution:</center> </b> <br>
+<p align="center">
+            <b>Explication de la solution:</b> <br>
+</p>
 - nb_jours=int(input("veuillez entrer le nombre de jours du mois :")) demande à l'utilisateur d'entrer le nombre de jours du mois  <br>
 - while nb_jours < 1 or nb_jours > 31:   <br>
   - nb_jours=int(input("Veuillez entre un nombre entre 1 et 31:")) tantque l'utilisateur n'entre pas un nombre entre 1 et 31, la fonction lui demande d'entrer le nombre de jours  <br>

@@ -1,12 +1,12 @@
 <p align="center">
 <u><b>Membres du Groupe</b></u> <br>
 </p>
-* ABI MIRABEL TEMBELE(23B506FS)   Participation(exo4, exo8, ex022)  <br>
-* TEMWA HABMO MAXIME(22A578FS)    Participation(exo4, exo8, ex022)   <br>
-* MOHAMADOU AWALOU(21A286FS)      Participation(exo4, exo8)   <br>
-* PADEMONA STEPHANE(21A282FS)     Participation(exo4, exo8) <br>
-
-
+<ul>
+<li>ABI MIRABEL TEMBELE(23B506FS)   Participation(exo4, exo8, ex022)</li>  <br>
+<li>TEMWA HABMO MAXIME(22A578FS)    Participation(exo4, exo8, ex022)</li>   <br>
+<li>MOHAMADOU AWALOU(21A286FS)      Participation(exo4, exo8)   <br></li>
+<li>PADEMONA STEPHANE(21A282FS)     Participation(exo4, exo8) <br></li>
+</u>
             exercice 4: Reversibilité de nombres
 <b>Problème: une fonction qui prend une liste et retourne ceux qui sont les memes quand on les lit droite à gauche</b> <br>
 <p align="center">

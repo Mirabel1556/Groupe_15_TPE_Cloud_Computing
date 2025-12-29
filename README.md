@@ -1,10 +1,10 @@
 <p align="center">
 <u><b>Membres du Groupe</b></u> <br>
 </p>
-- ABI MIRABEL TEMBELE(23B506FS) Participation(exo4, exo8, ex022)  <br>
-- TEMWA HABMO MAXIME(22A578FS)  Participation(exo4, exo8, ex022)   <br>
-- MOHAMADOU AWALOU(21A286FS)    Participation(exo4, exo8)   <br>
-- PADEMONA STEPHANE(21A282FS)   Participation(exo4, exo8) <br>
+* ABI MIRABEL TEMBELE(23B506FS)   Participation(exo4, exo8, ex022)  <br>
+* TEMWA HABMO MAXIME(22A578FS)    Participation(exo4, exo8, ex022)   <br>
+* MOHAMADOU AWALOU(21A286FS)      Participation(exo4, exo8)   <br>
+* PADEMONA STEPHANE(21A282FS)     Participation(exo4, exo8) <br>
 
 
             exercice 4: Reversibilité de nombres
